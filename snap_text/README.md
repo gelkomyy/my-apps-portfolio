@@ -18,4 +18,4 @@ Snap Text is a powerful app that allows you to easily convert images to text usi
 
 You can download the Snap Text app using the link below:
 
-[Download Snap Text APK](./snap_text.apk)
+[Download Snap Text APK](https://github.com/gelkomyy/my-apps-portfolio/raw/main/snap_text/snap_text.apk)
