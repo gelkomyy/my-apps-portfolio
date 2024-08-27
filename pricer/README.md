@@ -17,4 +17,4 @@ Pricer is a powerful and intuitive app designed to help freelancers manage their
 
 You can download the Pricer app using the link below:
 
-[Download Pricer APK](https://github.com/gelkomyy/my-apps-portfolio/blob/main/pricer/pricer.apk)
+[Download Pricer APK](https://github.com/gelkomyy/my-apps-portfolio/raw/main/pricer/pricer.apk)
