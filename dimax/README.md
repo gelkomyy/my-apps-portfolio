@@ -35,4 +35,4 @@ Dimax is a comprehensive Flutter application designed to help users find propert
 
 You can download the Dimax app using the link below:
 
-[Download Dimax APK](./dimax.apk)
+[Become tester in play store](https://play.google.com/apps/testing/com.dimaxestate)
