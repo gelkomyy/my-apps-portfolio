@@ -16,4 +16,4 @@ Simple Notes App is a lightweight, user-friendly app designed to help you quickl
 
 You can download the Simple Notes app using the link below:
 
-[Download Simple Notes APK](./notes.apk)
+[Download Notes App APK](./notes.apk)
