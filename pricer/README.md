@@ -1,6 +1,6 @@
 # Pricer
 
-![Pricer](./pricer.jpg)
+![Pricer](./pricer_app.jpg)
 
 ## Description
 
