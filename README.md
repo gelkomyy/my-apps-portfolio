@@ -7,7 +7,7 @@ Welcome to my Apps Portfolio! This repository showcases the various mobile appli
 
 - [Snap Text](./snap_text/README.md)
 
-![Snap Text Image](./snap_text/snape_text_app.jpg)
+![Snap Text Image](./snap_text/snap_text_app.jpg)
 
 - [Pricer](./pricer/README.md)
 
