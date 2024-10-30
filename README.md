@@ -15,7 +15,7 @@ Welcome to my Apps Portfolio! This repository showcases the various mobile appli
 
 ## - [Dimax](./dimax/README.md)
 
-![Dimax Image](./dimax/dimax_app.jpg)
+![Dimax Image](./dimax/dimax_app.png)
 
 ## Additional Apps
 I have developed several other applications as part of my training with my teacher in a course. This demonstrate my skills and capabilities, But these apps are not included in this portfolio.
