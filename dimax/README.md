@@ -1,4 +1,4 @@
-# Dimax - Property and Compound Management App
+# Dimax - Real Estate App
 
 ![Dimax](./dimax_app.png)
 
