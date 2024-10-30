@@ -13,7 +13,7 @@ Welcome to my Apps Portfolio! This repository showcases the various mobile appli
 
 ![Pricer Image](./pricer/pricer_app.jpg)
 
-## - [Dimax](./dimax/README.md)
+## - [Dimax - Real Estate](./dimax/README.md)
 
 ![Dimax Image](./dimax/dimax_app.png)
 
