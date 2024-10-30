@@ -1,6 +1,6 @@
 # Dimax - Property and Compound Management App
 
-![Dimax](./dimax_app.jpg)
+![Dimax](./dimax_app.png)
 
 ## Description
 
