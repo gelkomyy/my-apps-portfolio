@@ -25,6 +25,7 @@ I am currently working on several other applications as part of my training, wor
 I will upload these apps to this repository once they are finished. Stay tuned for updates!
 
 Thank you for visiting my portfolio! For any inquiries or further information, please feel free to contact me.
+[LinkedIn](https://www.linkedin.com/in/gelkomy/)
 
 
 ## Get in Touch
