@@ -63,4 +63,4 @@
 
 You can download the Simple Notes app using the link below:
 
-[Download Fazakir App APK](https://github.com/gelkomyy/my-apps-portfolio/raw/main/fazakir/fazakir_app.apk)
+[Download Fazakir App APK](https://www.mediafire.com/file/s059zfjzcyyc5nr/fazakir.apk/file)
