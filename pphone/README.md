@@ -44,5 +44,5 @@ P-Phone is a privacy-first Flutter application designed to help users protect an
 
 You can download the P-Phone app using the link below:
 
-[Download from Play Store](https://play.google.com/store/apps/details?id=com.pphoneapp)
+[Download from Play Store](https://play.google.com/store/apps/details?id=com.pphoneapp) & 
 [Download from App Store](https://apps.apple.com/us/app/pphone/id6749025787)
