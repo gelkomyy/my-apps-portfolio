@@ -5,6 +5,10 @@ Welcome to my Apps Portfolio! This repository showcases the various mobile appli
   
 ![PPhone Image](./pphone/pphone_app.png)
 
+## - [Dimax - Real Estate](./dimax/README.md)
+
+![Dimax Image](./dimax/dimax_app.png)
+
 ## - [Fazakir App](./fazakir/README.md)
   
 ![Fazakir Image](./fazakir/fazakir_app.png)
@@ -16,10 +20,6 @@ Welcome to my Apps Portfolio! This repository showcases the various mobile appli
 ## - [Pricer](./pricer/README.md)
 
 ![Pricer Image](./pricer/pricer_app.jpg)
-
-## - [Dimax - Real Estate](./dimax/README.md)
-
-![Dimax Image](./dimax/dimax_app.png)
 
 ## Additional Apps
 I have developed several other applications as part of my training with my teacher in a course. This demonstrate my skills and capabilities, But these apps are not included in this portfolio.
